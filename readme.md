@@ -1,1 +1,1 @@
-* NOT FINANCIAL ADVICE - These models are compiled for personal educational & experimental use. GitHub hosting is simply used as a backup & historical record for education. Do not base any financial decisions on these models*
+# *NOT FINANCIAL ADVICE - These models are compiled for personal educational & experimental use. GitHub hosting is simply used as a backup & historical record for education. Do not base any financial decisions on these models*
