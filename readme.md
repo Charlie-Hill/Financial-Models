@@ -7,5 +7,7 @@ Note: Some models are more 'complete' than others & some more up to date than ot
 ## Overview Files
 #### Masterlist of a sector or similar companies with model data for comparison. Also includes screener data
 - Overview - Fashion Retailers
+- Overview - Gambling Companies
+- Overview - Video Games
 - Overview - Airlines
 - Overview - Housebuilders
