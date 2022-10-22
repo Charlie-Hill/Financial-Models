@@ -2,3 +2,10 @@
 
 
 Note: Some models are more 'complete' than others & some more up to date than others
+
+
+## Overview Files
+- Masterlist of a sector or similar companies with model data for comparison. Also includes screener data
+-- Overview - Fashion Retailers
+-- Overview - Airlines
+-- Overview - Housebuilders
