@@ -1,7 +1,7 @@
-# *NOT FINANCIAL ADVICE - These models are compiled for personal educational & experimental use. GitHub is simply used as a backup & historical record for education. Do not base any financial decisions on these models*
+# *NOT FINANCIAL ADVICE - These models are compiled for personal educational & experimental use. These are hosted on GitHub primarily for off-site backup purposes. Do not base any financial decisions on these models*
 
 
-Note: Some models are more 'complete' than others & some more up to date than others
+Note: Some models are more 'complete' than others & some more up to date than others. There is also the possibility that some numbers or data could be incorrect.
 
 
 ## Overview Files
