@@ -5,7 +5,7 @@ Note: Some models are more 'complete' than others & some more up to date than ot
 
 
 ## Overview Files
-#### Masterlist of a sector or similar companies with model data for comparison. Also includes screener data
+#### "Universe Spreadsheets" ['Overview - XXXX'] of a sector or companies trading in some similar ways with model data for comparing each against their competitors. Also includes screener data
 - Overview - Fashion Retailers (Fashion Retail, Luxury Apparel & Footwear)
 - Overview - Gambling Companies
 - Overview - Software
