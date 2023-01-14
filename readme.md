@@ -6,10 +6,11 @@ Note: Some models are more 'complete' than others & some more up to date than ot
 
 ## Overview Files
 #### Masterlist of a sector or similar companies with model data for comparison. Also includes screener data
-- Overview - Fashion Retailers
+- Overview - Fashion Retailers (Fashion Retail, Luxury Apparel & Footwear)
 - Overview - Gambling Companies
-- Overview - Airlines
 - Overview - Software
+- Overview - Airlines
+- Overview - Space
 - Overview - Aerospace
 - Overview - Video Games
 - Overview - Housebuilders
