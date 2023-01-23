@@ -5,7 +5,8 @@ Note: Some models are more 'complete' than others & some more up to date than ot
 
 
 ## Overview Files
-#### "Universe Spreadsheets, labeled as 'Overview - XXXX,' are a collection of spreadsheets that compile information on various components of an industry, sector, or group of stocks that share similar characteristics. They include model data for comparing each stock against its competitors. Some of these spreadsheets also include screener data.
+#### "Universe Spreadsheets, labeled as 'Overview - XXXX,' are a collection of spreadsheets that compile information on various components of an industry, sector, or group of stocks that share similar characteristics. They include model data to aid in comparing each stock against its competitors. Some of these spreadsheets also include screener data.
+
 - Overview - Fashion Retailers (Fashion Retail, Luxury Apparel & Footwear)
 - Overview - Gambling Companies
 - Overview - Software (Masterlist of Software, Tech & E-Commerce)
